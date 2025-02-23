@@ -6,6 +6,6 @@ This project aims to develop a predictive model for sales forecasting using line
 
 The dataset used in this project contains sales transaction records with associated order dates. By leveraging machine learning techniques, we extract meaningful patterns from the data to make informed predictions. The model is trained using past sales data and evaluated using standard regression metrics to determine its accuracy and effectiveness.
 
-This project primarily employs Python-based data analysis and machine learning libraries such as pandas, numpy, scikit-learn, seaborn, and matplotlib. These tools facilitate efficient data preprocessing, model training, and result visualization.
+This project primarily employs Python-based data analysis and machine learning libraries such as pandas, numpy, scikit-learn, seaborn and matplotlib. These tools facilitate efficient data preprocessing, model training and result visualization.
 
 
