@@ -8,16 +8,4 @@ The dataset used in this project contains sales transaction records with associa
 
 This project primarily employs Python-based data analysis and machine learning libraries such as pandas, numpy, scikit-learn, seaborn, and matplotlib. These tools facilitate efficient data preprocessing, model training, and result visualization.
 
-Prerequisites
 
-Ensure you have the following Python libraries installed before running the script:
-
-pandas
-
-numpy
-
-matplotlib
-
-seaborn
-
-scikit-learn
